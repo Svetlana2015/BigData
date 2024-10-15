@@ -1,6 +1,6 @@
 # BigData
 
-Une très jeune start-up  cherche à proposer des solutions innovantes pour la récolte des fruits.
+Une très jeune start-up cherche à proposer des solutions innovantes pour la récolte des fruits.
 
 L’entreprise souhaite dans un premier temps se faire connaître en mettant à disposition du grand public une application mobile qui permettrait aux utilisateurs de prendre en
 photo un fruit et d'obtenir des informations sur ce fruit.
